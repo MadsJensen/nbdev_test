@@ -8,6 +8,6 @@ modules = ["core.py"]
 
 doc_url = "https://madsjensen.github.io/a_test_name/"
 
-git_url = "https://github.com/madsjensen/a_test_name/tree/{branch}/"
+git_url = "https://github.com/madsjensen/a_test_name/tree/main/"
 
 def custom_doc_links(name): return None
